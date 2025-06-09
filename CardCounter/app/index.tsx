@@ -183,7 +183,7 @@ const Index = () => {
       }
     }
     
-    if (cardNb < 8) {
+    if (cardNb < 7) {
       setCounter(counter + 1);
     } else if (cardNb > 9) {
       setCounter(counter - 1);
